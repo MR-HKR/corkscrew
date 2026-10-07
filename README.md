@@ -1,5 +1,7 @@
 # Corkscrew
 
+![Corkscrew Screenshot](src/storage/res/icons/corkscrew.png)
+
 Corkscrew is a simple Linux application for managing and launching Windows .exe programs using Wine.
 
 
