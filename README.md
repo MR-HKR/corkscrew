@@ -46,7 +46,7 @@ if for some reason it doesnt allow you to double click. its probably the file ma
 
 ## Version History
 
-* 0.1
+* 1.0
     * Initial Release 
 
 ## License
