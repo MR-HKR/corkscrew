@@ -1,26 +1,54 @@
-Corkscrew
+# Corkscrew
 
-Corkscrew is a simple Linux app for creating ".desktop" shortcuts without manually writing ".desktop" files.
+Corkscrew is a simple Linux application for managing and launching Windows .exe programs using Wine.
 
-Create shortcuts for applications, scripts, and Windows ".exe" files with just a few settings.
 
-Features
+## Description
 
-- Create ".desktop" shortcuts
-- Set a custom application name
-- Set an application icon
-- Choose the program or executable path
-- Set the working directory
-- Add applications to the Linux desktop menu
-- Simple and lightweight
+#features
 
-Built With
+* run exe files quickly.
+* run it in windowed mode or fullscreen mode if it supports it.
 
-- Python
-- Linux ".desktop" files
 
-Why Corkscrew?
+## Getting Started
 
-Creating a ".desktop" file manually isn't difficult, but it is unnecessarily annoying when you just want to launch something.
+### Dependencies
 
-Corkscrew handles the file creation for you, so you can spend less time fighting Linux configuration files and more time actually using your programs.
+* python
+* wine
+
+### Installing
+
+* just run the ```setup file```
+  or
+  ```
+  chmod  +x setup.sh
+  ./setup.sh
+  
+  ```
+
+and after that you can run exe files quickly
+
+  
+## Help
+
+if for some reason it doesnt allow you to double click. its probably the file manager and how it handles file types
+
+* nemo
+- try turning off the ```allow execute progam```  on the ```permissions```  tab when right clicking on ```properties``` 
+
+
+## Author
+
+* kingrain
+
+## Version History
+
+* 0.1
+    * Initial Release 
+
+## License
+
+This project is licensed under the License - see the LICENSE.md file for details
+
