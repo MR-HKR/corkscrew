@@ -37,7 +37,7 @@ and after that you can run exe files quickly
 if for some reason it doesnt allow you to double click. its probably the file manager and how it handles file types
 
 * nemo
-- try turning off the ```allow execute progam```  on the ```permissions```  tab when right clicking on ```properties``` 
+  * try turning off the ```allow execute progam```  on the ```permissions```  tab when right clicking on ```properties``` 
 
 
 ## Author
