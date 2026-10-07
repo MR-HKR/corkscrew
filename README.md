@@ -1,28 +1,26 @@
 Corkscrew
 
-Corkscrew is a simple Linux app for creating ".desktop" shortcuts.
+Corkscrew is a simple Linux app for creating ".desktop" shortcuts without manually writing ".desktop" files.
 
-It helps you make shortcuts for programs, scripts, and ".exe" files without having to write the ".desktop" file yourself.
+Create shortcuts for applications, scripts, and Windows ".exe" files with just a few settings.
 
 Features
 
-- Create app shortcuts
-- Set the app name
-- Set the app icon
-- Set the program path
+- Create ".desktop" shortcuts
+- Set a custom application name
+- Set an application icon
+- Choose the program or executable path
 - Set the working directory
-- Works with Linux desktop menus
+- Add applications to the Linux desktop menu
+- Simple and lightweight
 
 Built With
 
 - Python
 - Linux ".desktop" files
 
-Status
+Why Corkscrew?
 
-Corkscrew is still in development.
+Creating a ".desktop" file manually isn't difficult, but it is unnecessarily annoying when you just want to launch something.
 
-
-License
-
-License information will be added later.
+Corkscrew handles the file creation for you, so you can spend less time fighting Linux configuration files and more time actually using your programs.
