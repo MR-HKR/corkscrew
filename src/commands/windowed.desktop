@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Name=Run in windowed
+Exec=wine %f -screen-fullscreen 0
+Type=Application
+Terminal=false
+Comment=Application launcher
+Icon=/home/kingrain/.local/share/Corkscrew/icons/corkscrew.png
+Categories=Utility;
+MimeType=application/x-msdownload;
