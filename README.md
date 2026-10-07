@@ -13,7 +13,6 @@ Corkscrew is a simple Linux application for managing and launching Windows .exe 
 * run it in windowed mode or fullscreen mode if it supports it.
 
 
-## Getting Started
 
 ### Dependencies
 
