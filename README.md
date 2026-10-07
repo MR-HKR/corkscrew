@@ -51,5 +51,5 @@ if for some reason it doesnt allow you to double click. its probably the file ma
 
 ## License
 
-This project is licensed under the License - see the LICENSE.md file for details
+This project is licensed under a license.  see the LICENSE.md file for details
 
